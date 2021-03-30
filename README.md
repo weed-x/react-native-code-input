@@ -6,6 +6,8 @@ A <Input> component for react-native
 
 Needs React Native Version above than 0.59
 
+![](./demo.gif)
+
 #### Installation
 
 ------
